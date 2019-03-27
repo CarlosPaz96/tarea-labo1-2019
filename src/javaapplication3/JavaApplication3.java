@@ -10,7 +10,7 @@ import java.util.Random;
 
 /**
  *
- * @author Nigga
+ * @author Carlos Vasquez 00224317
  */
 public class JavaApplication3 {
 
